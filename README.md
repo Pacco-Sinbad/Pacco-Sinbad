@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey, There 🔓&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hey%20There!%20🔓&fontSize=90&fontColor=ccffcc" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Have a look at what I've been up to&&type=transparent&height=80"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 <!--
 **Pacco-Sinbad/Pacco-Sinbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
