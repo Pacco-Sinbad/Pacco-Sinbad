@@ -33,22 +33,31 @@
 <p align="center">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
 </p>
+<br/>
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Now%20just%20a%20little%20about%20me.%20🌱&fontSize=40&fontColor=ccffcc" />
+</p>
+<p>
+  My name is Mathias Fischer.
+  
+  I am a married father of two wonderful children.
+  
+  I've spent the last few years learning more about the tech industry and how to program. I've always been fascinated with computers, going so 
+  far as to have built a few of them. The next logical step for me was to learn how to tell them what I wanted them to do. 
+  
+  My background is as a machinist and I spent nine years on the factory floor as a setup operator. Before that I studied course work for material science at 
+  Michigan Technological University. I think it was here, working with some of the engineering applications, that I discovered my passion for programming.
+  
+  I'm currently learning how to use the Godot engine and write gdScript. Making games has never been so accessible and 
+  it's a fun way to keep the mind actively problem solving outside of running through problems on codewars.
+  
+  My other interests include gardening, cycling, 
+  pixel art, and fantasy sports.
+
+  My buddy once said something to me about myself that, until he said it, I had never really thought about. He told me, "What ever you do, it seems like you go 100%. 
+  You either go into it and learn every little thing about it or you don't waste your time on it at all." And you know what, sometimes to a detriment, he is correct. 
+  Programming and writting code have fortunately provided a bottomless well for me to explore.
+</p>
 
 
-<!--  <a href="mailto:mfischerf92@gmail.com" target="_blank">
-    <img height="80" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"
-  </a>
-<!--
-**Pacco-Sinbad/Pacco-Sinbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
