@@ -11,9 +11,7 @@
   <a href="https://www.linkedin.com/in/mathias-fischer-4a5601241/" target="_blank">
     <img height="80" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"
   </a>
-  <a href="mailto:mfischerf92@gmail.com" target="_blank">
-    <img height="80" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"
-  </a>
+
   <a href="https://gardenmonk.onrender.com/" target="_blank">
     <img height="80" src="https://cdn4.iconfinder.com/data/icons/origami-23/64/Squirrel_origami_paper_craft_creative-256.png"
   </a>
@@ -22,6 +20,23 @@
   </a>  
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=These%20are%20some%20of%20the%20tools%20I'm%20confident%20with.&fontSize=30&fontColor=ccffcc" />
+</p>
+<p align="center">
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=These%20are%20some%20of%20the%20tools%20I'm%20learning%20currently.&fontSize=30&fontColor=ccffcc" />
+</p>
+<p align="center">
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
+</p>
+
+
+<!--  <a href="mailto:mfischerf92@gmail.com" target="_blank">
+    <img height="80" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"
+  </a>
 <!--
 **Pacco-Sinbad/Pacco-Sinbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
