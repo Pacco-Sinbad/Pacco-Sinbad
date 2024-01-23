@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Now%20just%20a%20little%20about%20me.%20🌱&fontSize=40&fontColor=ccffcc" />
 </p>
-![Snake animation](https://github.com/Pacco-Sinbad/Pacco-Sinbad/blob/output/github-contribution-grid-snake.svg)
+
 <p>
   My name is Mathias Fischer.
   
