@@ -11,6 +11,12 @@
   <a href="https://www.linkedin.com/in/mathias-fischer-4a5601241/">
     <img height="80" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"
   </a>
+  <a href="mailto:mfischerf92@gmail.com">
+    <img height="80" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"
+  </a>
+  <a href="https://gardenmonk.onrender.com/" >
+    <img height="80" src="https://cdn4.iconfinder.com/data/icons/origami-23/64/Squirrel_origami_paper_craft_creative-256.png"
+  </a>
 </p>
 
 <!--
