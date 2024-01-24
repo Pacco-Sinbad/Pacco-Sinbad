@@ -29,7 +29,9 @@
   and decision making. It's kind of a throw back to the RPG's of the past but I plan to give it a little extra here and there. That project can be found
   above and I would appreciate any feed back or suggestions.
 </p>
-
+<br/>
+    <br/>
+    <br/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&section=header&text=These%20are%20some%20of%20the%20tools%20I'm%20confident%20with.&fontSize=30&fontColor=ccffcc" />
 </p>
