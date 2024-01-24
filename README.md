@@ -21,7 +21,9 @@
     <img height="80" src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_poke_trainer_three_star-256.png"
   </a>  
 </p>
-
+<br/>
+    <br/>
+    <br/>
 <p >
   My main project right now is learning the Godot Engine and gdScript. While I do that I'm actively working on a web based RPG project driven by text
   and decision making. It's kind of a throw back to the RPG's of the past but I plan to give it a little extra here and there. That project can be found
