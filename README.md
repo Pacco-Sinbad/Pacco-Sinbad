@@ -21,7 +21,7 @@
 <br/>
     <br/>
     <br/>
-<p >
+<p align="center" >
   My main project right now is learning the Godot Engine and gdScript.
 </p>
 <br/>
