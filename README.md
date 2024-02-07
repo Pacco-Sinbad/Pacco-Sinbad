@@ -10,10 +10,7 @@
   </a>
   <a href="https://www.linkedin.com/in/mathias-fischer-4a5601241/" target="_blank">
     <img height="80" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png"
-  </a>
-  <a href="https://rpg-project.netlify.app/" target="_blank">
-    <img height="80" src="https://cdn1.iconfinder.com/data/icons/roleplay-and-tabletop-dice/430/9-512.png"
-  <a/>    
+  </a>  
   <a href="https://gardenmonk.onrender.com/" target="_blank">
     <img height="80" src="https://cdn4.iconfinder.com/data/icons/origami-23/64/Squirrel_origami_paper_craft_creative-256.png"
   </a>
@@ -25,9 +22,7 @@
     <br/>
     <br/>
 <p >
-  My main project right now is learning the Godot Engine and gdScript. While I do that I'm actively working on a web based RPG project driven by text
-  and decision making. It's kind of a throw back to the RPG's of the past but I plan to give it a little extra here and there. That project can be found
-  above and I would appreciate any feed back or suggestions.
+  My main project right now is learning the Godot Engine and gdScript.
 </p>
 <br/>
     <br/>
